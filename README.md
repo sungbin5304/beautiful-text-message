@@ -15,3 +15,5 @@ beautiful message
 
 　˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　.　　　　　　　　　　　　　　　. 　　 　          🌎   ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,　 　　　　　　　　　　　　　　* .　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
  ```
+ 
+ # or...use `ctrl + a`, `ctrl + c` in [this](https://raw.githubusercontent.com/sungbin5304/discord-sky-message/master/sky.text) site and `ctrl + v` in Discord!
